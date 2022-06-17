@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Login2</string>
+    <string name="no_account">Não possui uma conta? <b>Registre-se</b></string>
+</resources>
